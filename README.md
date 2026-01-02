@@ -1,5 +1,25 @@
-# 💫 About Me:
-i am bca student i have complete my fullstck course with html css javascrip bootstrap node.js 
+## 👋 Hi, I'm Abhishek Jadhav
+
+🎓 I am a BCA (Bachelor of Computer Applications) 3rd-year student  
+💻 Passionate Frontend Web Developer  
+📍 India
+
+### 🚀 About Me
+I am a motivated BCA third-year student with a strong interest in web development.  
+I enjoy creating responsive and user-friendly websites using modern frontend technologies.  
+Currently, I am improving my skills by building real-world projects and learning industry best practices.
+
+### 🛠️ Technical Skills
+- **Languages:** HTML5, CSS3, JavaScript  
+- **Frameworks & Libraries:** Bootstrap 5  
+- **Tools:** Git, GitHub, VS Code  
+- **Design:** Responsive Web Design, Mobile-First Layouts
+
+### 📂 Projects
+- Responsive Gym Website  
+- Google Homepage UI Clone  
+- WhatsApp UI Clone  
+- Hotel Website UI (Bootstrap Based)
 
 
 ## 🌐 Socials:

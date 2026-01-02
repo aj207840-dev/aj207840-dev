@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Abhishek Jadhav
 
 🎓 I am a BCA (Bachelor of Computer Applications) 3rd-year student  
-💻 Passionate Frontend Web Developer  
+💻 Passionate Full Stack Web Developer  
 📍 India
 
 ### 🚀 About Me

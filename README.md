@@ -49,49 +49,6 @@ Currently, I am focusing on Django development, database management, and full-st
 * UI Development
 * Problem Solving
 
-## 📂 Projects
-
-### 🎮 Advanced Number Guessing Game in Python
-
-A Python-based interactive game featuring difficulty levels, score tracking, chance system, player history, and input validation.
-
-### 🏋️ Responsive Gym Website
-
-A fully responsive fitness website built using HTML, CSS, Bootstrap, and JavaScript.
-
-### 🏨 Bergen Harbour Hotel Website
-
-A modern and responsive hotel website designed with Bootstrap and custom styling.
-
-### 💬 WhatsApp UI Clone
-
-A front-end clone of WhatsApp interface focusing on responsive layouts and UI design.
-
-### 🔍 Google Homepage UI Clone
-
-A responsive clone of Google's homepage built using HTML and CSS.
-
-### 📚 StudySync Web Application
-
-A web-based project designed to organize and manage study-related resources efficiently.
-
-## 🌱 Currently Learning
-
-* Advanced Django
-* Full Stack Web Development
-* Database Design
-* Cloud Technologies
-
-## 🎯 Career Objective
-
-To build a successful career as a Software Developer by creating impactful applications, continuously learning new technologies, and contributing to innovative projects.
-
-## 📫 Connect With Me
-
-* GitHub: github.com/aj207840-dev
-* Portfolio: Available on GitHub Pages
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek_jadhav_1617/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jadhav-26a3b639a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aj207840@gmail.com) 

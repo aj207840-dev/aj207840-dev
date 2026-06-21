@@ -5,49 +5,116 @@
 🌐 Passionate about Web Development
 📍 Maharashtra, India
 
+---
+
 ## 🚀 About Me
 
-I am a BCA graduate with a strong interest in Python, Django, and Web Development. I enjoy building responsive, user-friendly, and real-world web applications while continuously improving my programming and problem-solving skills.
+I am a BCA graduate with a strong interest in Python, Django, and Full-Stack Web Development. I enjoy building responsive, user-friendly, and real-world web applications while continuously improving my programming and problem-solving skills.
 
-Currently, I am focusing on Django development, database management, and full-stack web technologies by creating practical projects and exploring industry best practices.
+Currently, I am focused on Django development, database management, and modern web technologies by creating practical projects and expanding my technical expertise.
+
+---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### 💻 Programming Languages
 
 * Python
 * JavaScript
 * C
 * C++
 
-### Web Technologies
+### 🌐 Web Technologies
 
 * HTML5
 * CSS3
 * Bootstrap 5
 * JavaScript
 
-### Frameworks
+### ⚙️ Frameworks
 
 * Django
 
-### Database
+### 🗄️ Database
 
 * MySQL
 * SQLite
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
 
-### Other Skills
+### 🎯 Other Skills
 
 * Responsive Web Design
 * Mobile-First Development
 * UI Development
 * Problem Solving
+
+---
+
+## 📂 Featured Projects
+
+### 🎮 Advanced Number Guessing Game in Python
+
+A Python-based interactive game featuring difficulty levels, score tracking, chance system, player history, and input validation.
+
+### 🏋️ Responsive Gym Website
+
+A fully responsive fitness website built using HTML, CSS, Bootstrap, and JavaScript.
+
+### 🏨 Bergen Harbour Hotel Website
+
+A modern and responsive hotel website designed with Bootstrap and custom styling.
+
+### 💬 WhatsApp UI Clone
+
+A front-end clone focused on responsive layouts and modern UI design.
+
+### 🔍 Google Homepage UI Clone
+
+A responsive clone of Google's homepage built using HTML and CSS.
+
+### 📚 StudySync Web Application
+
+A web-based project designed to organize and manage study-related resources.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Django
+* Full Stack Web Development
+* Database Design
+* Cloud Computing Fundamentals
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: **[aj207840@gmail.com](mailto:aj207840@gmail.com)**
+* 💼 LinkedIn: **linkedin.com/in/abhishek-jadhav-26a3b639a**
+* 📷 Instagram: **@abhishek_jadhav_1617**
+* 🐙 GitHub: **github.com/aj207840-dev**
+
+---
+
+## 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=aj207840-dev\&theme=dark\&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=aj207840-dev\&theme=dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aj207840-dev\&layout=compact\&theme=dark)
+
+---
+
+### 🎯 Career Objective
+
+To build a successful career as a Software Developer by creating impactful applications, continuously learning new technologies, and contributing to innovative software projects.
+
 
 
 ## 🌐 Socials:

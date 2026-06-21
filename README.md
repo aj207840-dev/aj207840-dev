@@ -1,25 +1,96 @@
-## 👋 Hi, I'm Abhishek Jadhav
+# 👋 Hi, I'm Abhishek Jadhav
 
-🎓 I am a BCA (Bachelor of Computer Applications) 3rd-year student  
-💻 Passionate Full Stack Web Developer  
-📍 India
+🎓 BCA Graduate
+💻 Python & Django Developer
+🌐 Passionate about Web Development
+📍 Maharashtra, India
 
-### 🚀 About Me
-I am a motivated BCA third-year student with a strong interest in web development.  
-I enjoy creating responsive and user-friendly websites using modern frontend technologies.  
-Currently, I am improving my skills by building real-world projects and learning industry best practices.
+## 🚀 About Me
 
-### 🛠️ Technical Skills
-- **Languages:** HTML5, CSS3, JavaScript  
-- **Frameworks & Libraries:** Bootstrap 5  
-- **Tools:** Git, GitHub, VS Code  
-- **Design:** Responsive Web Design, Mobile-First Layouts
+I am a BCA graduate with a strong interest in Python, Django, and Web Development. I enjoy building responsive, user-friendly, and real-world web applications while continuously improving my programming and problem-solving skills.
 
-### 📂 Projects
-- Responsive Gym Website  
-- Google Homepage UI Clone  
-- WhatsApp UI Clone  
-- Hotel Website UI (Bootstrap Based)
+Currently, I am focusing on Django development, database management, and full-stack web technologies by creating practical projects and exploring industry best practices.
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* Python
+* JavaScript
+* C
+* C++
+
+### Web Technologies
+
+* HTML5
+* CSS3
+* Bootstrap 5
+* JavaScript
+
+### Frameworks
+
+* Django
+
+### Database
+
+* MySQL
+* SQLite
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+
+### Other Skills
+
+* Responsive Web Design
+* Mobile-First Development
+* UI Development
+* Problem Solving
+
+## 📂 Projects
+
+### 🎮 Advanced Number Guessing Game in Python
+
+A Python-based interactive game featuring difficulty levels, score tracking, chance system, player history, and input validation.
+
+### 🏋️ Responsive Gym Website
+
+A fully responsive fitness website built using HTML, CSS, Bootstrap, and JavaScript.
+
+### 🏨 Bergen Harbour Hotel Website
+
+A modern and responsive hotel website designed with Bootstrap and custom styling.
+
+### 💬 WhatsApp UI Clone
+
+A front-end clone of WhatsApp interface focusing on responsive layouts and UI design.
+
+### 🔍 Google Homepage UI Clone
+
+A responsive clone of Google's homepage built using HTML and CSS.
+
+### 📚 StudySync Web Application
+
+A web-based project designed to organize and manage study-related resources efficiently.
+
+## 🌱 Currently Learning
+
+* Advanced Django
+* Full Stack Web Development
+* Database Design
+* Cloud Technologies
+
+## 🎯 Career Objective
+
+To build a successful career as a Software Developer by creating impactful applications, continuously learning new technologies, and contributing to innovative projects.
+
+## 📫 Connect With Me
+
+* GitHub: github.com/aj207840-dev
+* Portfolio: Available on GitHub Pages
+
 
 
 ## 🌐 Socials:
@@ -35,8 +106,7 @@ Currently, I am improving my skills by building real-world projects and learning
 ---
 [![](https://visitcount.itsvg.in/api?id=aj207840-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Abhishek) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

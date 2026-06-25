@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Jadhav
 
-🎓 BCA Graduate
+🎓BBA(CA) Graduate
 💻 Python & Django Developer
 🌐 Passionate about Web Development
 📍 Maharashtra, India
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I am a BCA graduate with a strong interest in Python, Django, and Full-Stack Web Development. I enjoy building responsive, user-friendly, and real-world web applications while continuously improving my programming and problem-solving skills.
+I am a BBA(CA)  graduate with a strong interest in Python, Django, and Full-Stack Web Development. I enjoy building responsive, user-friendly, and real-world web applications while continuously improving my programming and problem-solving skills.
 
 Currently, I am focused on Django development, database management, and modern web technologies by creating practical projects and expanding my technical expertise.
 
